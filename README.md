@@ -4,12 +4,9 @@ I have Provided the settings I currently use for Profit Trailer and Profit Trail
 Profit Trailer Link - https://goo.gl/6MXgrj
 ------------------------------------------------
 DONATE!
+
 BTC: 1CkSeFUTecpozBbJYstYkfTDi57cRVM99r
-------------------------------------------------
-DONATE!
-ETH: 0xd8B1C9ac74F8634032259928D2e0E769CF80d4C2
-------------------------------------------------
-DONATE!
+
 LTC: LSP6enz4wAXFajNtBTiQBTQgifQa7WtkfM
 ------------------------------------------------
 Follow me on Twitter - @majicmancrypto
