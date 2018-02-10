@@ -1,4 +1,4 @@
-# PT-Settings
+# Profit Trailer Settings
 I have Provided the settings I currently use for Profit Trailer and Profit Trailer Feeder!
 -------------------------------------------------------------------
 Profit Trailer Link - https://goo.gl/6MXgrj
