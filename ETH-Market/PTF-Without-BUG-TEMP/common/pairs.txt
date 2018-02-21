@@ -1,4 +1,0 @@
-﻿# ---------------COMMON PT FEEDER CONFIG-----------------------
-
-ALL_hidden_pairs = BNBETH,BNBBTC
-
