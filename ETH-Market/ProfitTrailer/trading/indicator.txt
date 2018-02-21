@@ -1,4 +1,4 @@
-BB_period = 900
+BB_period = 1800
 BB_sma = 40
 
 SMA_period = 300
@@ -6,6 +6,6 @@ SMA_1 = 24
 SMA_2 = 12
 
 EMA_cross_candles = 2
-EMA_period = 900
+EMA_period = 14400
 EMA_1 = 50
 EMA_2 = 20
