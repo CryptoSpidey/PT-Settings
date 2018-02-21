@@ -1,8 +1,9 @@
 ﻿# ---------------COMMON PT FEEDER CONFIG-----------------------
 
-buy_strategy = ANDERSON
-buy_style = DOUBLEDOWN
+buy_strategy = LOWBB
 
+buy_value = -4
+buy_trigger = -3.5
 
 stop_loss_trigger = 0
 stop_loss_timeout = 60

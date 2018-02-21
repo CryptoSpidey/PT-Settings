@@ -1,5 +1,3 @@
-
-
-buy_trigger_1 = -3.5
+﻿buy_trigger_1 = -3.5
 buy_trigger_2 = -4.5
 buy_trigger_3 = -5.5
